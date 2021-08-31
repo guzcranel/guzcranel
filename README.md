@@ -1,4 +1,4 @@
-### Oi eu sou o Gustavo Alves🐱‍💻
+### Oi eu sou o Gustavo🐱‍💻
 
 👾Atualmente estudo informalmente diversas linguagens de programção
 
