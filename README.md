@@ -2,7 +2,7 @@
 
 👾Atualmente estudo informalmente diversas linguagens de programção
 
-🐱‍🐉Cusando Criação e desenvolvimento de sites
+🐱‍🐉Cusando Análise e desenvolvimento de sistemas.
 
 ##
 
